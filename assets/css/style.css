@@ -57,13 +57,14 @@ body {
 }
 
 .container .content:hover {
-  box-shadow: cyan 0px 13px 27px -5px, cyan 0px 8px 16px -8px;
+  /* box-shadow: cyan 0px 13px 27px -5px, cyan 0px 8px 16px -8px; */
+  box-shadow: #2fa8cf 0px 13px 27px -5px, #2fa8cf 0px 8px 16px -8px;
 }
 
 .container .content h1:hover,
 .container .content li p:hover,
 .container .content li i:hover {
-  color: cyan;
+  color: #2fa8cf;
 }
 
 .container .content h1 {
