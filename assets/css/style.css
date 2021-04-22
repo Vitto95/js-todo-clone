@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* template con display: none */
+
+.template {
+  display: none;
+}
+
+/* /template con display: none */
